@@ -1,2 +1,4 @@
-package com.example.todolist.controller;public class UserController {
+package com.example.todolist.controller;
+
+public class UserController {
 }
